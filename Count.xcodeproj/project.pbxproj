@@ -14,6 +14,7 @@
 		394645021F96122D00A94125 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 394645001F96122D00A94125 /* LaunchScreen.storyboard */; };
 		3946450D1F96122D00A94125 /* CountTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3946450C1F96122D00A94125 /* CountTests.swift */; };
 		394645181F96122D00A94125 /* CountUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 394645171F96122D00A94125 /* CountUITests.swift */; };
+		39D8D5041F96191C009DC3C0 /* haikei.png in Resources */ = {isa = PBXBuildFile; fileRef = 39D8D5031F96191C009DC3C0 /* haikei.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -47,6 +48,7 @@
 		394645131F96122D00A94125 /* CountUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = CountUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		394645171F96122D00A94125 /* CountUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CountUITests.swift; sourceTree = "<group>"; };
 		394645191F96122D00A94125 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		39D8D5031F96191C009DC3C0 /* haikei.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = haikei.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,6 +99,7 @@
 		394644F61F96122D00A94125 /* Count */ = {
 			isa = PBXGroup;
 			children = (
+				39D8D5031F96191C009DC3C0 /* haikei.png */,
 				394644F71F96122D00A94125 /* AppDelegate.swift */,
 				394644F91F96122D00A94125 /* ViewController.swift */,
 				394644FB1F96122D00A94125 /* Main.storyboard */,
@@ -232,6 +235,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				39D8D5041F96191C009DC3C0 /* haikei.png in Resources */,
 				394645021F96122D00A94125 /* LaunchScreen.storyboard in Resources */,
 				394644FF1F96122D00A94125 /* Assets.xcassets in Resources */,
 				394644FD1F96122D00A94125 /* Main.storyboard in Resources */,
